@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6a13c29a-7644-4989-9690-30a856408527" name="Default Changelist" comment="" />
+    <list default="true" id="3fc2ddcc-4964-4d32-96b8-8830e7b37125" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,17 +20,18 @@
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
-  <component name="ProjectId" id="1iEXIPXHffquUzUNdyrTGkWv5vp" />
+  <component name="ProjectId" id="1iEY6BOJk6lUtGIgPPDOFcMG5sL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="6a13c29a-7644-4989-9690-30a856408527" name="Default Changelist" comment="" />
-      <created>1601473645057</created>
+      <changelist id="3fc2ddcc-4964-4d32-96b8-8830e7b37125" name="Default Changelist" comment="" />
+      <created>1601474040823</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1601473645057</updated>
+      <updated>1601474040823</updated>
     </task>
     <servers />
   </component>
